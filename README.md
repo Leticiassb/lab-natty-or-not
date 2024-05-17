@@ -19,3 +19,5 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre os pilares da programaç�
 ## 🚀 Resultados
 O e-book apresenta um conteúdo envolvente e visualmente rico, demonstrando as principais ferramentas da linguagem de programação Java.
 
+[LINK PARA O E-BOOK AQUI](https://github.com/Leticiassb/lab-natty-or-not/blob/main/Ebook%20-%20Principais%20Pilares%20da%20Linguagem%20de%20Programa%C3%A7%C3%A3o%20Java.pdf)
+
